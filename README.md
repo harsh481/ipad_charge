@@ -6,6 +6,7 @@ Supported devices:
 ------------------
 * iPad
 * iPad2
+* iPad2.1
 * iPad3
 * iPad4
 * iPad Mini
